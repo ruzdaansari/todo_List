@@ -16,7 +16,7 @@ A simple and interactive To-Do List application built with HTML, CSS, and JavaSc
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ruzdaansari/todo_List.git
    ```
 2. Open `index.html` in a browser.
 3. Type a task in the input field and click "Enter" or press the "Enter" key.
